@@ -1,0 +1,142 @@
+@font-face {
+	font-family: 'BankGothicBT-Light';
+	src: url('../fonts/BankGothicBT/BankGothicBT-Light.eot');
+	src: url('../fonts/BankGothicBT/BankGothicBT-Light.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/BankGothicBT/BankGothicBT-Light.woff') format('woff'),
+	url('../fonts/BankGothicBT/BankGothicBT-Light.ttf')  format('truetype'),
+	url('../fonts/BankGothicBT/BankGothicBT-Light.svg#BankGothicBT-Light') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Dosis-SemiBold';
+	src: url('../fonts/Dosis/Dosis-SemiBold.eot');
+	src: url('../fonts/Dosis/Dosis-SemiBold.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/Dosis/Dosis-SemiBold.woff') format('woff'),
+	url('../fonts/Dosis/Dosis-SemiBold.ttf')  format('truetype'),
+	url('../fonts/Dosis/Dosis-SemiBold.svg#Dosis-SemiBold') format('svg');
+
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Merriweather-Italic';
+	src: url('../fonts/Merriweather/Merriweather-Italic.eot');
+	src: url('../fonts/Merriweather/Merriweather-Italic.eot?#iefix') format('embedded-opentype'),   
+	url('../fonts/Merriweather/Merriweather-Italic.woff') format('woff'),
+	url('../fonts/Merriweather/Merriweather-Italic.ttf')  format('truetype'),
+	url('../fonts/Merriweather/Merriweather-Italic.svg#Merriweather-Italic') format('svg');
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'OpenSans-Regular';
+	src: url('../fonts/Open-Sans/OpenSans-Regular.eot');
+	src: url('../fonts/Open-Sans/OpenSans-Regular.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/Open-Sans/OpenSans-Regular.woff') format('woff'),
+	url('../fonts/Open-Sans/OpenSans-Regular.ttf')  format('truetype'),
+	url('../fonts/Open-Sans/OpenSans-Regular.svg#OpenSans-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+    font-family: 'OpenSans-Bold';
+    src: url('../fonts/Open-Sans/OpenSans-Bold.eot');
+    src: url('../fonts/Open-Sans/OpenSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Open-Sans/OpenSans-Bold.woff2') format('woff2'),
+        url('../fonts/Open-Sans/OpenSans-Bold.woff') format('woff'),
+        url('../fonts/Open-Sans/OpenSans-Bold.ttf') format('truetype'),
+        url('../fonts/Open-Sans/OpenSans-Bold.svg#OpenSans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Pompiere-Regular';
+	src: url('../fonts/Pompiere/Pompiere-Regular.eot');
+	src: url('../fonts/Pompiere/Pompiere-Regular.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/Pompiere/Pompiere-Regular.woff') format('woff'),
+	url('../fonts/Pompiere/Pompiere-Regular.ttf')  format('truetype'),
+	url('../fonts/Pompiere/Pompiere-Regular.svg#Pompiere-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'ZurichBlackExtendedBT';
+	src: url('../fonts/Zurich/ZurichBlackExtendedBT.eot');
+	src: url('../fonts/Zurich/ZurichBlackExtendedBT.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/Zurich/ZurichBlackExtendedBT.woff') format('woff'),
+	url('../fonts/Zurich/ZurichBlackExtendedBT.ttf')  format('truetype'),
+	url('../fonts/Zurich/ZurichBlackExtendedBT.svg#ZurichBlackExtendedBT') format('svg');
+	font-weight: 900;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'NEOTERIC-Bold';
+	src: url('../fonts/Neoteric/NEOTERIC-Bold.eot');
+	src: url('../fonts/Neoteric/NEOTERIC-Bold.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/Neoteric/NEOTERIC-Bold.woff') format('woff'),
+	url('../fonts/Neoteric/NEOTERIC-Bold.woff2') format('woff2'),
+	url('../fonts/Neoteric/NEOTERIC-Bold.ttf')  format('truetype'),
+	url('../fonts/Neoteric/NEOTERIC-Bold.svg#NEOTERIC-Bold') format('svg');
+
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face{
+	font-family: 'MyriadPro-Regular';
+	src: url('../fonts/MyriadPro/MyriadPro-Regular.eot');
+	src: url('../fonts/MyriadPro/MyriadPro-Regular.eot?iefix') format('eot'),
+	url('../fonts/MyriadPro/MyriadPro-Regular.woff') format('woff'),
+	url('../fonts/MyriadPro/MyriadPro-Regular.ttf') format('truetype'),
+	url('../fonts/MyriadPro/MyriadPro-Regular.otf')  format('opentype'),
+	url('../fonts/MyriadPro/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face{
+	font-family: 'MyriadProBold';
+	src: url('../fonts/MyriadPro/MyriadProBold.eot');
+	src: url('../fonts/MyriadPro/MyriadProBold.eot?iefix') format('eot'),
+	url('../fonts/MyriadPro/MyriadProBold.woff') format('woff'),
+	url('../fonts/MyriadPro/MyriadProBold.ttf') format('truetype'),
+	url('../fonts/MyriadPro/MyriadProBold.otf')  format('opentype'),
+	url('../fonts/MyriadPro/MyriadProBold.svg#MyriadPro-Semibold') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face{
+	font-family: 'MyriadProLight';
+	src: url('../fonts/MyriadPro/MyriadPro-Light.eot');
+	src: url('../fonts/MyriadPro/MyriadPro-Light.eot?iefix') format('eot');
+	src: url('../fonts/MyriadPro/MyriadPro-Light.woff') format('woff');
+	src: url('../fonts/MyriadPro/MyriadPro-Light.ttf') format('truetype');
+	src: url('../fonts/MyriadPro/MyriadPro-Light.otf')  format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face{
+	font-family: 'MyriadPro-Semibold';
+	src: url('../fonts/MyriadPro/MyriadPro-Semibold.eot');
+	src: url('../fonts/MyriadPro/MyriadPro-Semibold.eot?iefix') format('eot'),
+	url('../fonts/MyriadPro/MyriadPro-Semibold.woff') format('woff'),
+	url('../fonts/MyriadPro/MyriadPro-Semibold.woff2') format('woff2'),
+	url('../fonts/MyriadPro/MyriadPro-Semibold.ttf') format('truetype'),
+	url('../fonts/MyriadPro/MyriadPro-Semibold.otf')  format('opentype'),
+	url('../fonts/MyriadPro/MyriadPro-Semibold.svg#webfont') format('svg');
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+    font-family: 'Helvetica LT Std';
+    src: url('../fonts/Helvetica/HelveticaLTStd-UltraComp.eot');
+    src: url('../fonts/Helvetica/HelveticaLTStd-UltraComp.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Helvetica/HelveticaLTStd-UltraComp.woff') format('woff'),
+        url('../fonts/Helvetica/HelveticaLTStd-UltraComp.ttf') format('truetype'),
+         url('../fonts/Helvetica/HelveticaLTStd-UltraComp.otf') format('opentype'),
+        url('../fonts/Helvetica/HelveticaLTStd-UltraComp.svg#HelveticaLTStd-UltraComp') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
